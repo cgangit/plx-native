@@ -1,4 +1,4 @@
-{"updated":"2026-10-28T01:05:38Z",
+{"updated":"2026-10-28T01:05:54Z",
 "ci":[
 {"id":39386999115,"at":"2026-10-20T07:30:49Z","sha":"8629ca7b8","title":"Library: a key on a deep Recommended page no longer costs a late frame, and library-shelves-deep can pass","pr":860,"conclusion":"success","attempt":1,"jobs":{"which gates apply":7,"host python/shell/C gates":201,"host unit tests (hostsim)":308,"host unit tests (default features)":308,"host harness tests":198,"host lint + type-checks":207,"armv7 cross-build and artifact assertions":399,"host checks (NOT a device gate)":2,"cross-build (armv7) + artifact assertions":2}}
 ],
@@ -6,6 +6,6 @@
 {"id":39386999067,"at":"2026-10-20T07:30:49Z","sha":"8629ca7b8","title":"Library: a key on a deep Recommended page no longer costs a late frame, and library-shelves-deep can pass","pr":860,"conclusion":"success","attempt":1,"jobs":{"macOS simulator build + launch":442,"macOS tests against bundled FFmpeg and ASS":313,"Linux simulator build + launch":387,"Windows launcher syntax":20}}
 ],
 "nightly":[],
-"cancelled":{"2026-10-28":{"push":1,"pull_request":0}},
+"cancelled":{"2026-10-28":{"push":2,"pull_request":0}},
 "daily":[],
 "flaky":[]}
